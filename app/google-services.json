@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588167252004",
+    "firebase_url": "https://daftarteman-e63ef-default-rtdb.firebaseio.com",
+    "project_id": "daftarteman-e63ef",
+    "storage_bucket": "daftarteman-e63ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588167252004:android:3ca54ced9bef6158e3b0b1",
+        "android_client_info": {
+          "package_name": "com.moka.daftarteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588167252004-45c0g3rjrvdo3djt20pcidkl7spam8ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moka.daftarteman",
+            "certificate_hash": "68c233230e866d1d4892cdbb06c425f8d342b223"
+          }
+        },
+        {
+          "client_id": "588167252004-6fud7ir0m6nbc10qllladqgdlguq94b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9E6dNptuwpGxDwdnFXPNszr4vKUqmP_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588167252004-6fud7ir0m6nbc10qllladqgdlguq94b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
